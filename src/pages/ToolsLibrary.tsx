@@ -60,7 +60,7 @@ const toolData: ToolCardProps[] = [
   {
     id: 'rank-tracker',
     name: 'Rank Tracker',
-    description: 'Monitor your website's position in search results for your target keywords over time.',
+    description: 'Monitor your website\'s position in search results for your target keywords over time.',
     type: 'free',
     category: 'Rank Tracking',
     ctaText: 'Use Tool',
@@ -68,7 +68,7 @@ const toolData: ToolCardProps[] = [
   {
     id: 'content-optimizer',
     name: 'Content Optimizer',
-    description: 'Get recommendations to improve your content's relevance and readability for better ranking.',
+    description: 'Get recommendations to improve your content\'s relevance and readability for better ranking.',
     type: 'free',
     category: 'Content Tools',
     ctaText: 'Use Tool',

@@ -56,7 +56,7 @@ const toolDetails: Record<string, ToolDetailData> = {
     description: 'Ahrefs is an all-in-one SEO toolset that offers powerful features for backlink analysis, keyword research, competitor analysis, content research, rank tracking, and more.',
     type: 'affiliate',
     category: 'All-in-One SEO',
-    useCase: 'Perfect for SEO professionals, digital marketers, and business owners who need comprehensive insights into their website's performance and competitors' strategies.',
+    useCase: 'Perfect for SEO professionals, digital marketers, and business owners who need comprehensive insights into their website\'s performance and competitors\' strategies.',
     features: [
       'Site Explorer for backlink analysis',
       'Keywords Explorer for keyword research',
